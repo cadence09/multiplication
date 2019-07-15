@@ -1,4 +1,4 @@
 # multiplication
 
 
-## This is a multiplcation from 1 to  20 .
+## This is a multiplication from 1 to  20 .
