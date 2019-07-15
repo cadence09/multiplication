@@ -1,0 +1,37 @@
+body,html{
+    background-image: url(/img/pencil.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100%;
+    margin:0;
+    overflow:hidden;
+     background-color:#fadf1c;
+    text-align:center;
+     
+    }
+    
+
+    
+ .content{
+    margin-top:35%;
+    }
+#question{
+    font-size:30px;
+}
+
+@media only screen and (max-width: 600px){
+    body{
+       background-image: url(/img/multiple.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+    .content{
+        color:#0000cc;
+    }
+    #question{
+        font-size:20px;
+        font-weight:600;
+    }
+}
